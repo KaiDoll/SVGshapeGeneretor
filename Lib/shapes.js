@@ -48,5 +48,4 @@ class Triangle extends Shape {
     }
 }
 
-module.exports = logoGenerator;
-
+module.exports = { Triangle, Circle, Square }
